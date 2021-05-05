@@ -32,3 +32,8 @@ JSON terbuat dari dua struktur: <br>
 1.  Kumpulan pasangan nama/nilai. Pada beberapa bahasa, hal ini dinyatakan sebagai objek 
 (object), rekaman (record), struktur (struct), kamus (dictionary), tabel hash (hash table), 
 daftar berkunci (keyed list), atau associative array. 
+2.  Daftar nilai terurutkan (an ordered list of values). Pada kebanyakan bahasa, hal ini 
+dinyatakan sebagai larik (array), vektor (vector), daftar (list), atau urutan (sequence).
+Struktur-struktur data JSON disebut sebagai struktur data universal. Pada dasarnya, 
+semua bahasa pemprograman modern mendukung struktur data JSON dalam bentuk yang sama 
+maupun berlainan.
