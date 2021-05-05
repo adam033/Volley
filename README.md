@@ -19,7 +19,9 @@ utama serta seperangkat utilitas yang berlaku secara umum, dan tersedia di "tool
 termudah untuk menambahkan Volley ke project dengan menambahkan dependensi berikut ke file 
 build.gradle:
 <br>
+<br>
 *implementation 'com.android.volley:volley:1.1.1'*
+<br>
 <br>
 JSON (JavaScript Object Notation) adalah format pertukaran data yang ringan, mudah 
 dibaca dan ditulis oleh manusia, serta mudah diterjemahkan dan dibuat (generate) oleh komputer. 
@@ -28,6 +30,7 @@ format teks yang tidak bergantung pada bahasa pemprograman apapun karena menggun
 gaya bahasa yang umum digunakan oleh programmer keluarga C termasuk C, C++, C#, Java, 
 JavaScript, Perl, Python dll. Oleh karena sifat-sifat tersebut, menjadikan JSON ideal sebagai 
 bahasa pertukaran-data. <br>
+<br>
 JSON terbuat dari dua struktur: <br>
 1.  Kumpulan pasangan nama/nilai. Pada beberapa bahasa, hal ini dinyatakan sebagai objek 
 (object), rekaman (record), struktur (struct), kamus (dictionary), tabel hash (hash table), 
