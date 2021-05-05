@@ -14,7 +14,10 @@ memperhatikan antrian dalam permintaan data data skala prioritas.
 Library Volley inti dikembangkan di GitHub dan berisi pipeline pengiriman permintaan 
 utama serta seperangkat utilitas yang berlaku secara umum, dan tersedia di "toolbox" Volley. Cara 
 termudah untuk menambahkan Volley ke project dengan menambahkan dependensi berikut ke file 
+<br>
+<br>
 build.gradle: *implementation 'com.android.volley:volley:1.1.1'*
+<br>
 <br>
 **JSON (JavaScript Object Notation)** adalah format pertukaran data yang ringan, mudah 
 dibaca dan ditulis oleh manusia, serta mudah diterjemahkan dan dibuat (generate) oleh komputer. 
@@ -23,6 +26,7 @@ format teks yang tidak bergantung pada bahasa pemprograman apapun karena menggun
 gaya bahasa yang umum digunakan oleh programmer keluarga C termasuk C, C++, C#, Java, 
 JavaScript, Perl, Python dll. Oleh karena sifat-sifat tersebut, menjadikan JSON ideal sebagai 
 bahasa pertukaran-data. <br>
+<br>
 JSON terbuat dari dua struktur:
 1. Kumpulan pasangan nama/nilai. Pada beberapa bahasa, hal ini dinyatakan sebagai objek 
 (object), rekaman (record), struktur (struct), kamus (dictionary), tabel hash (hash table), 
@@ -32,6 +36,16 @@ dinyatakan sebagai larik (array), vektor (vector), daftar (list), atau urutan (s
 Struktur-struktur data JSON disebut sebagai struktur data universal. Pada dasarnya, 
 semua bahasa pemprograman modern mendukung struktur data JSON dalam bentuk yang sama 
 maupun berlainan.
+<br>
+<br>
+
+### Hasil
+<br>
 ![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
+<br>
 ![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
+<br>
 ![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
+<br>
+<br>
+### Thanks
