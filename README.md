@@ -1,8 +1,8 @@
 # Volley
 ### Pengertian
-Volley Library merupakan merupakan produk yang diperkenalkan oleh Google untuk 
+**Volley** Library merupakan merupakan produk yang diperkenalkan oleh Google untuk 
 mempermudah pertukaran data tanpa harus membuat deretan kode yang sangat panjang. Secara 
-default volley menggunakan metode singkronisasi. 
+default volley menggunakan metode sinkronisasi. 
 <br>
 Fitur yang ditawarkan Volley library adalah sebagai berikut:
 1. Melakukan sebuah request queuing and prioritization (Mengutamakan prioritas dalam 
@@ -19,7 +19,7 @@ utama serta seperangkat utilitas yang berlaku secara umum, dan tersedia di "tool
 termudah untuk menambahkan Volley ke project dengan menambahkan dependensi berikut ke file 
 build.gradle:
 <br>
-implementation 'com.android.volley:volley:1.1.1'
+*implementation 'com.android.volley:volley:1.1.1'*
 <br>
 JSON (JavaScript Object Notation) adalah format pertukaran data yang ringan, mudah 
 dibaca dan ditulis oleh manusia, serta mudah diterjemahkan dan dibuat (generate) oleh komputer. 
