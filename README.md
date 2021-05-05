@@ -40,12 +40,9 @@ maupun berlainan.
 <br>
 
 ### Hasil
-<br>
 ![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
 <br>
 ![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
 <br>
 ![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
-<br>
-<br>
-### Thanks
+
