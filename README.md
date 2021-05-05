@@ -23,7 +23,7 @@ build.gradle:
 *implementation 'com.android.volley:volley:1.1.1'*
 <br>
 <br>
-JSON (JavaScript Object Notation) adalah format pertukaran data yang ringan, mudah 
+**JSON (JavaScript Object Notation)** adalah format pertukaran data yang ringan, mudah 
 dibaca dan ditulis oleh manusia, serta mudah diterjemahkan dan dibuat (generate) oleh komputer. 
 Format ini dibuat berdasarkan bagian dari Bahasa Pemprograman JavaScript. JSON merupakan 
 format teks yang tidak bergantung pada bahasa pemprograman apapun karena menggunakan 
@@ -44,5 +44,7 @@ maupun berlainan.
 <br>
 ### Result
 <br>
-![Alt Text]()
+![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(681).png)
+![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(682).png)
+![Alt Text](https://github.com/adam033/Volley/blob/main/Screenshot%20(683).png)
 
